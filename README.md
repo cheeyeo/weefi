@@ -22,7 +22,7 @@ The data will be organized into the following subsections.
 
 Contain notes, publications etc on wireless networks and traffic such as data frames etc. Part of this project is to understand wirless networks so some ground work must be done to understand the protocols and messages sent so we can understand it better when we start analyzing traffic.
 
-* Wirless traffic analysis
+* Wireless traffic analysis
 
 This will contain technical notes and tools ( over time ) to conduct research on wireless traffic.
 
